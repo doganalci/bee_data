@@ -2,4 +2,5 @@
 2- no pasw
 3- no pass2 test
 4- last no pass test
+5- psuh from script
 
